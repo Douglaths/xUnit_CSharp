@@ -1,0 +1,59 @@
+# Archivos de Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de Build de Visual Studio
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+# Archivos generados por MSBuild
+msbuild.log
+*.cache
+*.ilk
+*.log
+*.obj
+*.pch
+*.pdb
+*.ipdb
+*.iobj
+*.log
+
+# Archivos de publicación
+*.publish.xml
+
+# Archivos de paquete NuGet
+*.nupkg
+# Archivos de bloqueo de dependencias
+project.lock.json
+project.fragment.lock.json
+
+# Archivos de configuración local de usuario
+*.config
+*.rsuser
+
+# Archivos de Rider de JetBrains
+.idea/
+*.sln.iml
+
+# Archivos de depuración
+*.tlog
+*.lastbuildstate
+*.rsp
+
+# Archivos de Azure
+.terraform/
+.azure/
+
+# Archivos de paquetes y compilación de npm
+node_modules/
+dist/
+
+# Otros archivos innecesarios
+*.tmp
+*.bak
+*.swp
